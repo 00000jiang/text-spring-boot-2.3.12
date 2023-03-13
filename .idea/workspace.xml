@@ -19,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -41,6 +42,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="2KOW3Cuik1JVcVUE6NTgg5LsixQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -126,7 +128,7 @@
       <workItem from="1673857751325" duration="12410000" />
       <workItem from="1675736312520" duration="71000" />
       <workItem from="1675995987480" duration="477000" />
-      <workItem from="1678676313000" duration="105000" />
+      <workItem from="1678676313000" duration="706000" />
     </task>
     <servers />
   </component>
