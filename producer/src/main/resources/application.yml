@@ -1,0 +1,32 @@
+server:
+  port: 8084
+spring:
+  application:
+    name: provider
+  cloud:
+    nacos:
+      # Nacos 服务发现与注册配置
+      discovery:
+        server-addr: 172.0.0.1:18080
+        username: nacos
+        password: nacos
+        namespace: be6ce011-8cf0-452d-934d-7db943424893
+
+dubbo:
+  registry:
+    address: spring-cloud://172.0.0.1:18080?namespace=be6ce011-8cf0-452d-934d-7db943424893
+    check: false
+  scan:
+    # dubbo 服务扫描基准包
+    base-packages: com.boss.serviceImpl
+  protocol:
+    # dubbo 协议
+    name: dubbo
+    # dubbo 协议端口（ -1 表示自增端口，从 20880 开始）
+    port: 20881
+  cloud:
+    subscribed-services: ""
+  provider:
+    timeout: 10000
+    retries: 2
+    loadbalance: roundrobin
