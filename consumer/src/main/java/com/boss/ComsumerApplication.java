@@ -8,7 +8,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author hc
+ * @author jrf
  * @date 2023-1-16 16:45
  */
 

@@ -4,7 +4,7 @@ package com.boss.serviceImpl;
 import org.apache.dubbo.config.annotation.DubboService;
 
 /**
- * @author hc
+ * @author jrf
  * @date 2023-1-16 13:25
  */
 @DubboService
