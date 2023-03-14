@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="706fe664-f854-48d3-aae8-12d23c13c1e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/boss/ComsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/boss/ComsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/boss/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/boss/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer/src/main/java/com/boss/serviceImpl/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/producer/src/main/java/com/boss/serviceImpl/ServiceImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="706fe664-f854-48d3-aae8-12d23c13c1e0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,11 +129,34 @@
       <workItem from="1675736312520" duration="71000" />
       <workItem from="1675995987480" duration="477000" />
       <workItem from="1678676313000" duration="706000" />
-      <workItem from="1678789003933" duration="175000" />
+      <workItem from="1678789003933" duration="484000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
