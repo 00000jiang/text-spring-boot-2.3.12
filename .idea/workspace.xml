@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="706fe664-f854-48d3-aae8-12d23c13c1e0" name="Default Changelist" comment="" />
+    <list default="true" id="706fe664-f854-48d3-aae8-12d23c13c1e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/boss/serviceImpl/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/common-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +137,7 @@
       <workItem from="1675736312520" duration="71000" />
       <workItem from="1675995987480" duration="477000" />
       <workItem from="1678676313000" duration="706000" />
-      <workItem from="1678789003933" duration="484000" />
+      <workItem from="1678789003933" duration="1360000" />
     </task>
     <servers />
   </component>
